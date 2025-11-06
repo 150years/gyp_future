@@ -1,9 +1,4 @@
-# gyp_future
-Идеи для развития
-
 ## 💡 Предложить идею
-
-Используйте [GitHub Discussions](../../discussions) чтобы предложить и проголосовать за новые идеи для развития проекта.
 
 ### Как это работает
 
@@ -16,8 +11,6 @@
 ---
 
 ## 💡 Propose an Idea
-
-Use [GitHub Discussions](../../discussions) to propose and vote on new ideas for the project development.
 
 ### How it works
 
