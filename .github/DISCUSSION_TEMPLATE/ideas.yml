@@ -8,7 +8,7 @@ body:
         
         Thank you for suggesting a new idea for gyp_future! Please fill out the form below to help us understand your proposal.
         
-        **Note:** This discussion uses voting. Please vote on ideas you support using the 👍 reaction!
+        **Note:** This discussion uses voting. After submitting, others can vote on your idea using the ⬆️ upvote arrow (located on the left side of the discussion). Use the "Top" filter to view the most popular ideas!
 
   - type: textarea
     id: description
