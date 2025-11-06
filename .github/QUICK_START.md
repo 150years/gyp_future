@@ -17,13 +17,15 @@
 6. Check the Code of Conduct box
 7. Click **"Start discussion"**
 
-### 👍 Vote on Existing Ideas
+### ⬆️ Vote on Existing Ideas
 
 1. Go to **[Discussions](../../discussions)**
 2. Browse the **Ideas** category
-3. Open an idea you like
-4. Click the **👍 reaction** on the main post (not on comments)
-5. Ideas are automatically sorted by votes
+3. Find an idea you like
+4. Click the **⬆️ upvote arrow** on the left side of the discussion (next to the discussion title)
+5. Use the **"Top"** filter to view ideas sorted by votes
+
+**Note:** The upvote arrow (⬆️) is different from reactions like 👍. Use the upvote arrow for voting, and reactions to express additional sentiment.
 
 ### 💬 Participate in Discussions
 
@@ -54,9 +56,11 @@ See [discussions-setup.md](discussions-setup.md) for complete setup instructions
 - Consider alternatives
 
 **For Voters:**
-- Vote on ideas you genuinely support
+- Use the upvote arrow (⬆️) to vote on ideas you genuinely support
 - Read the full proposal before voting
+- Use the "Top" filter to see highly voted ideas
 - Comment if you have suggestions
+- Use reactions (❤️, 🎉, etc.) to express additional sentiment beyond voting
 
 **For Maintainers:**
 - Review high-voted ideas regularly
@@ -83,13 +87,15 @@ See [discussions-setup.md](discussions-setup.md) for complete setup instructions
 6. Отметьте согласие с Кодексом поведения
 7. Нажмите **"Начать обсуждение"**
 
-### 👍 Голосовать за существующие идеи
+### ⬆️ Голосовать за существующие идеи
 
 1. Перейдите в **[Обсуждения](../../discussions)**
 2. Просмотрите категорию **Идеи**
-3. Откройте понравившуюся идею
-4. Нажмите реакцию **👍** на основном посте (не на комментариях)
-5. Идеи автоматически сортируются по количеству голосов
+3. Найдите понравившуюся идею
+4. Нажмите **⬆️ стрелку вверх (upvote)** слева от обсуждения (рядом с названием обсуждения)
+5. Используйте фильтр **"Top"** для просмотра идей, отсортированных по голосам
+
+**Примечание:** Стрелка вверх (⬆️) отличается от реакций типа 👍. Используйте стрелку вверх для голосования, а реакции для выражения дополнительных эмоций.
 
 ### 💬 Участвовать в обсуждениях
 
