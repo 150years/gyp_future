@@ -63,12 +63,9 @@ To vote on ideas:
 
 1. Navigate to the Discussions tab
 2. Select the Ideas category
-3. Find an idea you want to support
-4. Click the **⬆️ upvote arrow** on the left side of the discussion (next to the title)
-5. Use the **"Top"** filter dropdown to sort and view ideas by vote count
-6. Ideas with the most upvotes will appear at the top when using the "Top" filter
-
-**Important:** GitHub Discussions with voting enabled use upvote/downvote arrows (⬆️/⬇️), which are different from reactions (👍, ❤️, etc.). Upvote arrows affect sorting and filtering, while reactions are for expressing sentiment.
+3. Click on an idea to view details
+4. Use the 👍 thumbs up reaction to support the idea
+5. The ideas with the most votes will appear at the top
 
 ## Pinning Important Ideas
 

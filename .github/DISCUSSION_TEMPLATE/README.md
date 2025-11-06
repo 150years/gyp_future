@@ -15,15 +15,11 @@ This repository uses GitHub Discussions to gather and vote on ideas for future d
 
 ### How to Vote on Ideas
 
-- Click the **⬆️ upvote arrow** on the left side of the discussion (next to the title) to vote for an idea
-- Use the **"Top"** filter to view ideas sorted by votes
-- You can also use reactions to express different sentiments:
-  - 👍 Support this
+- Use the 👍 (thumbs up) reaction on the main discussion post to vote for an idea
+- You can also use other reactions to express different sentiments:
   - ❤️ Love this idea
   - 🎉 Excited about this
   - 👀 Watching this closely
-
-**Note:** The upvote arrow (⬆️) is the primary voting mechanism and affects sorting. Reactions are for expressing additional sentiment and do not affect vote ranking.
 
 ### Discussion Categories
 
@@ -35,7 +31,6 @@ This repository uses GitHub Discussions to gather and vote on ideas for future d
 
 - **Be Clear**: Provide detailed descriptions of your ideas
 - **Be Respectful**: Engage constructively with others' ideas
-- **Vote Thoughtfully**: Use the upvote arrow (⬆️) to support ideas you believe in
-- **Use Filters**: Sort discussions using the "Top" filter to find highly-voted ideas
+- **Vote Thoughtfully**: Use reactions to support ideas you believe in
 - **Provide Context**: Include examples, use cases, or references when possible
 - **Stay On Topic**: Keep discussions focused on the specific idea or question
