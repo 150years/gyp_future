@@ -64,7 +64,7 @@ To vote on ideas:
 1. Navigate to the Discussions tab
 2. Select the Ideas category
 3. Click on an idea to view details
-4. Use the ⬆️ upvote button to support the idea
+4. Use the 👍 thumbs up reaction to support the idea
 5. The ideas with the most votes will appear at the top
 
 ## Pinning Important Ideas
